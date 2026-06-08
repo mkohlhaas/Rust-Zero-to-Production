@@ -10,6 +10,7 @@ path = "src/lib.rs"
 # We can only have one library in a project, but we can have multiple binaries!
 # If you want to manage multiple libraries in the same repository
 # have a look at the workspace feature - we'll cover it later on.
+
 [[bin]]
 path = "src/main.rs"
 name = "zero2prod"
